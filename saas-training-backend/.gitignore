@@ -1,0 +1,6 @@
+# Ignore node modules and logs
+node_modules/
+
+# Build output
+dir/public
+/out
